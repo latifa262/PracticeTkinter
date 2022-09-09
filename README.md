@@ -5,7 +5,6 @@
 ```
 $pip install tkinter
 $pip install easyocr
-
 ```
 2. Load Images and Extract Text using EasyOCR
 
