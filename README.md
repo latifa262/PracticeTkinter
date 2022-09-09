@@ -1,6 +1,7 @@
 ## Extract Text from Images in Python using EasyOCR
 
 1. Install and Import Required Modules:
+
 '''
 pip install tkinter
 pip install easyocr
